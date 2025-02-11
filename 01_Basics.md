@@ -28,3 +28,23 @@ text = "# This is not a comment because it's inside quotes."
 128
 ```
 
+```python
+>>>width = 20
+>>>height = 5 * 9
+>>>width * height
+900
+```
+
+```python
+>>>n  # try to access an undefined variable
+Traceback (most recent call last):
+  File "<stdin>", line 1, in <module>
+NameError: name 'n' is not defined
+```
+
+```python
+4 * 3.75 - 1
+14.0```
+
+
+
